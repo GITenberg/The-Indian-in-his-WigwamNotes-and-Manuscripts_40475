@@ -1,0 +1,29 @@
+_repo: The-Indian-in-his-WigwamNotes-and-Manuscripts_40475
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40475-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schoolcraft, Henry Rowe
+    alias: Schoolcraft, Henry R. (Henry Rowe)
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '3850'
+    url: http://www.gutenberg.org/2009/agents/3850
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
+description: ''
+gutenberg_issued: '2012-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America'
+- !lcc 'E011'
+title: "The Indian in his Wigwam; Or, Characteristics of the Red Race of America\r\
+  \nFrom Original Notes and Manuscripts"
+url: http://www.gutenberg.org/ebooks/40475
