@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3850
     wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40475#The-Indian-in-his-WigwamNotes-and-Manuscripts
 gutenberg_issued: '2012-08-10'
 gutenberg_type: Text
 identifiers:
